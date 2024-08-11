@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>463.jpeg</filename>
+	<path>/Users/nurgun/Downloads/yolo_object_detection/Notes/1_datapreparation/data_images/463.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>542</xmin>
+			<ymin>236</ymin>
+			<xmax>720</xmax>
+			<ymax>712</ymax>
+		</bndbox>
+	</object>
+</annotation>

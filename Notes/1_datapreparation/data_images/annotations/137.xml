@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>137.jpeg</filename>
+	<path>/Users/nurgun/Downloads/yolo_object_detection/Notes/1_datapreparation/data_images/137.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>682</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>124</ymin>
+			<xmax>873</xmax>
+			<ymax>592</ymax>
+		</bndbox>
+	</object>
+</annotation>

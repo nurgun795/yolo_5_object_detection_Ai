@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>285.jpeg</filename>
+	<path>/Users/nurgun/Downloads/yolo_object_detection/Notes/1_datapreparation/data_images/285.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2500</width>
+		<height>1904</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>734</xmin>
+			<ymin>100</ymin>
+			<xmax>1629</xmax>
+			<ymax>1900</ymax>
+		</bndbox>
+	</object>
+</annotation>

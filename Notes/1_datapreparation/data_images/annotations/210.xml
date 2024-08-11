@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>210.webp</filename>
+	<path>/Users/nurgun/Downloads/yolo_object_detection/Notes/1_datapreparation/data_images/210.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1570</width>
+		<height>1116</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>155</ymin>
+			<xmax>1440</xmax>
+			<ymax>1023</ymax>
+		</bndbox>
+	</object>
+</annotation>
